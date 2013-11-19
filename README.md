@@ -11,5 +11,4 @@ Usage
 fakerl_names:name() -> a name composed of a first and last name.
 
 
-David N. Welton
-davidw@dedasys.com
+David N. Welton - http://www.dedasys.com
